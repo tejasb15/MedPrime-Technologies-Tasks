@@ -9,7 +9,7 @@ This repository contains a series of assignments completed as part of the MedPri
 2. [Prerequisites](#prerequisites)
 3. [Assignment 1: Renaming All Files in a Folder Sequentially](#assignment-1-renaming-all-files-in-a-folder-sequentially)
 4. [Assignment 2: Zipping a Folder](#assignment-2-zipping-a-folder)
-5. [Assignment 3: Creating a Collage from 4 Images](#assignment-3-title-of-assignment-3)
+5. [Assignment 3: Creating a Collage from 4 Images](#assignment-3-creating-a-collage-from-4-images)
 6. [Contributing](#contributing)
 7. [License](#license)
 8. [Contact](#contact)
